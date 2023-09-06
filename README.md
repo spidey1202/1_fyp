@@ -56,7 +56,20 @@
 - Youper is an AI-powered therapy app that helps users track their emotions and identify thought patterns.
 - Later, engage in conversations that promote self-awareness and emotional well-being.
 
-## 
+## Comparison of Virtual Therapist Features
+| Parameters               | Woebot                  | Wysa                    | Replika                | Ellie                  | Youper                 | Our Virtual Therapist   |
+|-----------------------|-------------------------|-------------------------|-------------------------|------------------------|-------------------------|--------------------------|
+| **Emotion Recognition** | ✔️ Advanced sentiment analysis | ✔️ Mood tracking and strategies | ✔️ Learns from interactions | ✔️ Facial expression analysis | ✔️ Emotion tracking      | ✔️ Advanced emotion analysis |
+| **Therapeutic Techniques** | ✔️ Cognitive-behavioral therapy | ✔️ Evidence-based techniques | ❌ Conversational learning | ✔️ Evidence-based approach | ✔️ Self-awareness focus | ✔️ Custom therapeutic plans |
+| **User Personalization** | ❌ Limited personalization | ✔️ Adapts to user preferences | ✔️ Learns from conversations | ✔️ Personalized interactions | ✔️ Tailored conversations | ✔️ Highly personalized responses |
+| **Depth of Conversations** | ✔️ Structured therapy sessions | ✔️ In-depth conversations | ✔️ Conversational learning | ✔️ Deep therapeutic dialogs | ✔️ Self-awareness focus | ✔️ Deep and empathetic dialogs |
+| **Interface**          | ✔️ Chat-based interface | ✔️ Conversational interface | ✔️ Text-based interface | ✔️ Voice-based interaction | ✔️ Chat-based interface | ✔️ Multimodal interaction  |
+| **Emotional Context** | ❌ Limited contextual understanding | ❌ Limited context in conversations | ❌ Limited contextual depth | ❌ Limited contextual depth | ❌ Limited context analysis | ✔️ Strong contextual understanding |
+| **Therapy Effectiveness** | ✔️ Well-established efficacy | ✔️ Positive user feedback | ✔️ Varies by user | ❌ Limited studies | ✔️ Positive user outcomes | ✔️ Aim for measurable improvements |
+| **Novel Features**     | ❌ Mostly text-based | ❌ Chat and meditation | ❌ Learning from users | ❌ Facial expressions | ❌ Emotion tracking | ✔️ Creative relaxation techniques |
+| **Ethical Considerations** | ✔️ Clear ethical guidelines | ✔️ Privacy and user data | ✔️ User data usage concerns | ✔️ Ethical user interaction | ✔️ User privacy concerns | ✔️ Strict privacy and ethical practices |
+| **Target Audience**    | General mental well-being | Broad audience | General conversations | Military veterans | Emotional well-being | Wide range of mental health needs |
+
 
 
 
