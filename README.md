@@ -156,7 +156,7 @@
   
  
 ## Basic Development Environment
-*Python and Environment Setup:*
+*1. Python and Environment Setup:*
 - Create a new directory for this project and set up virtual environment
 ```bash
 mkdir therapist_chatbot
@@ -164,25 +164,19 @@ cd therapist_chatbot
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
-*Install Required Libraries*
+*2. Install Required Libraries*
 - Install spaCy and Flask using pip
 ```bash
 pip install spacy flask
 ```
-*spaCy Setup*
+*3. spaCy Setup:*
 - Download and install a spaCy language model. Let's use the English model for this example:
 ```bash
 python -m spacy download en_core_web_sm
 ```
-
-
-
-
-
-
-
-
-
+*4. Create a Basic Flask App:*
+- Download and install a spaCy language model. Let's use the English model for this example:
+```bash
 
 
 
